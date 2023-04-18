@@ -2,7 +2,7 @@
   {
     "name": "AQUA - An Ecommerce Website",
     "desc": "The website is designed using a combination of three essential web development technologies: HTML, CSS, and JavaScript.",
-    "image": "./assets/images/projects/aqua",
+    "image": "aqua",
     "category": "mern",
     "links": {
       "code": "https://github.com/rachanashetty2702/aqua-website"
