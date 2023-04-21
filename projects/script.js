@@ -53,7 +53,7 @@ function showProjects(projects) {
         <h3>${project.name}</h3>
         </div>
         <div class="desc">
-          <p>${project.desc}</p>
+          <p>${project.desc}</p>    
           <div class="btns">
             <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
           </div>
