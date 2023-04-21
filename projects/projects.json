@@ -2,7 +2,7 @@
   {
     "name": "AQUA - An Ecommerce Website",
     "desc": "The website is designed using a combination of three essential web development technologies: HTML, CSS, and JavaScript.",
-    "image": "aqua.png",
+    "image": "aqua",
     "category": "mern",
     "links": {
       "code": "https://github.com/rachanashetty2702/aqua-website"
@@ -11,7 +11,7 @@
   {
     "name": "Aerophilia App UI",
     "desc": "It's a UI design made using Figma for a techno-cultural event.",
-    "image": "aerophilia-app.png",
+    "image": "aerophilia-app",
     "category": "mern",
     "links": {
       "code": "https://www.figma.com/file/RVtzYzf7o9GZA747ABe0pb/Untitled?node-id=0-1"
@@ -21,7 +21,7 @@
   {
     "name": "Aerophilia Sponsors Page",
     "desc": "It's a simple page created using HTML and CSS with a navbar",
-    "image": "aerophilia-sponsors.png",
+    "image": "aerophilia-sponsors",
     "category": "mern",
     "links": {
       "code": "https://github.com/rachanashetty2702/Aerophilia-Main"
@@ -30,7 +30,7 @@
   {
     "name": "Project Management System",
     "desc": "This projects aims to make data management easier in educational sectors for maintaining all the academic projects. It's a simple user interface created using Java Swings and MySQL.",
-    "image": "pms.png",
+    "image": "pms",
     "category": "mern",
     "links": {
       "code": "https://github.com/rachanashetty2702/project-management-system"
