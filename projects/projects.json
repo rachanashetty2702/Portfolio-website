@@ -5,7 +5,7 @@
     "image": "aqua",
     "category": "mern",
     "links": {
-      "code": "https://github.com/rachanashetty2702/aqua-website"
+      "code": "https://rachanashetty2702.github.io/AQUA-ECommerce/"
     }
   },
   {
@@ -43,6 +43,24 @@
     "category": "mern",
     "links": {
       "code": "https://github.com/rachanashetty2702/ATHENA"
+    }
+  },
+  {
+    "name": "Merkle Tree Based File Verification",
+    "desc": "Developed a Merkle Tree based File Verification System resembling version control, which provides a mechanism to track and display changes made to files.",
+    "image": "merkle",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/rachanashetty2702/MerkleTreeBasedFileVerification"
+    }
+  },
+  {
+    "name": "To-Do API",
+    "desc": "The To-Do API is a simple RESTful API built using Flask and Flask-RESTful. It provides endpoints to manage To-Do tasks and their summaries.",
+    "image": "API",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/rachanashetty2702/TODO-API"
     }
   }
   
