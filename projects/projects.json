@@ -39,7 +39,7 @@
   {
     "name": "Athena-Women Health and Safety App",
     "desc": "An application that tracks menstrual cycles and ensures safety. Features include cycle tracking, health resources, mood music, and a safety alert system for immediate assistance.",
-    "image": "athena",
+    "image": "big_athena",
     "category": "mern",
     "links": {
       "code": "https://github.com/rachanashetty2702/ATHENA"
